@@ -1,0 +1,22 @@
+.Post{
+    width: 200px;
+    padding: 16px;
+    text-align: center;
+    box-sizing: border-box;
+    cursor: pointer;
+    background-color: #ccc;
+    margin: 10px 20px;
+    box-shadow: 2px 2px 2px #222;
+    color: black;
+
+}
+
+.Post:hover,
+.Post:active{
+    background-color: #C0DDF5;
+}
+
+.Auther{
+    margin:10px 0 ;
+    color: #202020 ;
+}
